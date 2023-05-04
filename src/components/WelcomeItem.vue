@@ -19,7 +19,7 @@
 }
 
 .details {
-  flex: 1;
+  flex: 2;
   margin-left: 1rem;
 }
 
